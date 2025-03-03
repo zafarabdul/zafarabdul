@@ -11,5 +11,5 @@
 - **Tools:** Git, GitHub, VS Code, Docker, AWS
 
 ## Projects
-- **[My Resume AI Bot](https://github.com/zafarabdul/my-resume-ai-bot):** A Django-powered portfolio website featuring an AI chatbot and resume showcase.
+- **[My Resume AI Bot](https://github.com/zafarabdul/My_Resume-AI-BOT):** A Django-powered portfolio website featuring an AI chatbot and resume showcase.
 - **[Stock News Gmail Sender](https://github.com/zafarabdul/Stock-News-Gmail-Sender):** A Python-based tool that fetches stock news and sends it via Gmail.
