@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zafarabdul
 - 👀 I’m interested in AI, ML, AWS , Kubernetes
 - 🌱 I’m currently learning **AWS**, **Docker**, and **React.js**.
-- 🔭 I’m currently working on a [Django-based resume website](https://github.com/zafarabdul/portfolio).
+- 🔭 I’m currently working on a [Django-based resume website](https://github.com/zafarabdul/My_Resume-AI-BOT).
 - 📫 How to reach me: [zafarabdul05@gmail.com](mailto:email@example.com)
 - 🌍 I'm from **Tuni, Andhra Pradesh , India**.
 
