@@ -12,4 +12,4 @@
 
 ## Projects
 - **[My Resume AI Bot](https://github.com/zafarabdul/My_Resume-AI-BOT):** A Django-powered portfolio website featuring an AI chatbot and resume showcase.
-- **[Stock News Gmail Sender](https://github.com/zafarabdul/Stock-News-Gmail-Sender):** A Python-based tool that fetches stock news and sends it via Gmail.
+- **[Stock News Gmail Sender](https://github.com/zafarabdul/Stock-News-Gmail_Sender):** A Python-based tool that fetches stock news and sends it via Gmail.
