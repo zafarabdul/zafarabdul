@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zafarabdul
+- 👋 Hi, I’m Mohammed Abdul Zafar
 - 👀 I’m interested in AI, ML, AWS , Kubernetes
 - 🌱 I’m currently learning **AWS**, **Docker**, and **React.js**.
 - 🔭 I’m currently working on a [ReactJs , Django-based CryptoGraphy website](https://github.com/zafarabdul/Crypt_Ease).
