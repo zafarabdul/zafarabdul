@@ -6,8 +6,8 @@
 - 🌍 I'm from **Tuni, Andhra Pradesh , India**.
 
 ## Skills
-- **Languages:** C++, Python, JavaScript, SQL, HTML, CSS
-- **Frameworks/Technologies:** Django, React.js, AWS, Docker
+- **Languages:** C++, Python, JavaScript, SQL, HTML, CSS , TypeScript
+- **Frameworks/Technologies:** Django, Angular , React.js, AWS, Docker
 - **Tools:** Git, GitHub, VS Code, Docker, AWS
 
 <div align="left">
